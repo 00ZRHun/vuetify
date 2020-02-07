@@ -75,7 +75,7 @@
           placeholder="Search..."
           single-line
           append-icon="search"
-          color="white"
+          color="white"aa
           hide-details
         />
       </v-row>
